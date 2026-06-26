@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+__author__ = "Shalapai4ek"
+__version__ = "1.0.0"
+
 import hashlib
 import argparse
 import sys
