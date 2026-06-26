@@ -1,7 +1,7 @@
-## Simple-hasher.py
+# Simple-hasher.py
 A simple file hasher that outputs the hash sum of a specified file to the terminal and compares it against a hash stored in a TXT file.
 
-# Usage
+## Usage
 hasher.py [-h] [-c TXT_FILE] [-a ALGORYTHM] [-s SIZE] path
 
 positional arguments:
